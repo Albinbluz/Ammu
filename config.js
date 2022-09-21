@@ -32,7 +32,7 @@ global.APIKeys = { // APIKey nya disini
 
 // Sticker WM
 global.packname = 'Ammu-Sticker'
-global.author = 'Ammu'
+global.author = 'albin'
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
